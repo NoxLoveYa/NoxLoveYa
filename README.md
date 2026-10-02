@@ -22,8 +22,7 @@ and plenty of dotfiles
 nox@wired:~$ cat now.txt
 - contributing  skate-3-rust-engine (Rust + Bevy), opencode-gui, SpoTUI, openmouse
 - tinkering     Dynamac-Island (Swift), Dot-Files, FihSpot
-- ask me about Rust + Bevy modding, Fabric mods, Windows internals,
-               demo analysis, mouse/HID protocols, Spotify theming, agent UIs
+- ask me about Bevy modding, Fabric mods, Windows internals, HID, demo analysis
 ```
 
 ## // stack
