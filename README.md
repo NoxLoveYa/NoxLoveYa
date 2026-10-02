@@ -23,7 +23,8 @@ $ whoami
 nox - final-year student @ ETNA, dev @ Rivrs Studio, France
 
 $ cat focus.txt
-terminal-flavoured tooling, desktop/UI hacking, game-dev experiments,
+game engines & graphics (OpenGL, SFML, Godot), game modding,
+low-level C/C++ and systems work, bots & web tooling,
 and plenty of dotfiles
 
 $ cat now.txt
@@ -34,17 +35,39 @@ $ cat now.txt
 
 ## stack
 
-![Lua](https://img.shields.io/badge/Lua-8b949e?style=flat-square&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-8b949e?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-8b949e?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8b949e?style=flat-square&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-8b949e?style=flat-square&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-8b949e?style=flat-square&logo=haskell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8b949e?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8b949e?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8b949e?style=flat-square&logo=javascript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-8b949e?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8b949e?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8b949e?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-8b949e?style=flat-square&logo=swift&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-8b949e?style=flat-square&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-8b949e?style=flat-square&logo=roblox&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-8b949e?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-8b949e?style=flat-square&logo=swift&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-8b949e?style=flat-square&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-8b949e?style=flat-square)
+![GLSL](https://img.shields.io/badge/GLSL-8b949e?style=flat-square&logo=opengl&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-8b949e?style=flat-square&logo=godotengine&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-8b949e?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-8b949e?style=flat-square&logo=html5&logoColor=white)
+
+![OpenGL](https://img.shields.io/badge/OpenGL-8b949e?style=flat-square&logo=opengl&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8b949e?style=flat-square)
 ![Godot](https://img.shields.io/badge/Godot-8b949e?style=flat-square&logo=godotengine&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-8b949e?style=flat-square&logo=archlinux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8b949e?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8b949e?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-8b949e?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8b949e?style=flat-square&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-8b949e?style=flat-square&logo=archlinux&logoColor=white)
+
+```text
+epitech cursus: C (printf, minishell, my_ls, navy, sokoban, push_swap, my_ftp, CSFML games),
+C++ (raytracer, arcade, tekspice, panoramix, bootstrap types), x86-64 asm (minilibc),
+web (epytodo, AREA), security (burp), CI/CD (chocolatine, popeye), neural networks, math/Python
+```
 
 ## find me
 
