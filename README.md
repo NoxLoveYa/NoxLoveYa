@@ -3,12 +3,12 @@
 <img src="assets/banner.svg" alt="nox" width="700" />
 
 <a href="https://github.com/NoxLoveYa">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2800&pause=900&color=C9B8FF&center=true&vCenter=true&width=560&lines=hi%2C+i'm+Nox+%E2%99%A1;final-year+%40+ETNA;dev+%40+Rivrs+Studio;contributing+to+a+Rust+%2B+Bevy+skate+engine;Fabric+mods%2C+hypervisors+%26+demo+analysis;open-source%3A+SpoTUI%2C+opencode-gui%2C+openmouse;let's+all+love+lain" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2800&pause=900&color=C9B8FF&center=true&vCenter=true&width=560&lines=%3E+hi%2C+i'm+Nox;final-year+%40+ETNA;dev+%40+Rivrs+Studio;contributing+to+a+Rust+%2B+Bevy+skate+engine;Fabric+mods%2C+hypervisors+%26+demo+analysis;open-source%3A+SpoTUI%2C+opencode-gui%2C+openmouse;let's+all+love+lain" alt="typing intro" />
 </a>
 
 </div>
 
-## ✧ about
+## // about
 
 ```text
 nox@wired:~$ whoami
@@ -25,7 +25,7 @@ nox@wired:~$ cat now.txt
 - ask me about Lua, TypeScript, Rust, Arch Linux ricing
 ```
 
-## ⋆ stack
+## // stack
 
 ![C](https://img.shields.io/badge/C-3a1a5c?style=flat-square&logo=c&logoColor=e5b8ff)
 ![C++](https://img.shields.io/badge/C%2B%2B-3a1a5c?style=flat-square&logo=cplusplus&logoColor=e5b8ff)
@@ -55,12 +55,12 @@ nox@wired:~$ cat now.txt
 ![Git](https://img.shields.io/badge/Git-6b1a30?style=flat-square&logo=git&logoColor=ffb3c1)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-6b1a30?style=flat-square&logo=archlinux&logoColor=ffb3c1)
 
-## ☽ find me
+## // find me
 
 [github](https://github.com/NoxLoveYa) · [website](https://example.com) · [email](mailto:you@example.com)
 
 <div align="center">
 
-˚ ༘ ⋆｡˚ &nbsp;♡&nbsp; ˚｡⋆ ༘ ˚
+░▒▓ &nbsp;×&nbsp; ▓▒░
 
 </div>
