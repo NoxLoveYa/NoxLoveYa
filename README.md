@@ -57,7 +57,7 @@ nox@wired:~$ cat now.txt
 
 ## // find me
 
-[github](https://github.com/NoxLoveYa) · [website](https://example.com) · [email](mailto:you@example.com)
+[website](https://radiumhub.net) · [email](mailto:ewan.rondeau@gmail.com)
 
 <div align="center">
 
