@@ -11,7 +11,7 @@
 ```
 
 <a href="https://github.com/NoxLoveYa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=480&lines=hi%2C+i'm+Nox;final-year+%40+ETNA;dev+%40+Rivrs+Studio;tinkering+with+Rust%2C+Lua+%26+TypeScript;always+learning" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=520&lines=hi%2C+i'm+Nox;final-year+%40+ETNA;dev+%40+Rivrs+Studio;building+a+Rust+%2B+Bevy+skate+engine;Fabric+mods%2C+hypervisors+%26+demo+analysis;open-source%3A+SpoTUI%2C+opencode-gui%2C+openmouse;always+learning" alt="typing intro" />
 </a>
 
 </div>
