@@ -3,7 +3,7 @@
 <img src="assets/banner.svg?v=3" alt="nox" width="700" />
 
 <a href="https://github.com/NoxLoveYa">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2800&pause=900&color=C9B8FF&center=true&vCenter=true&width=560&lines=%3E+hi%2C+i'm+Nox;final-year+%40+ETNA;dev+%40+Rivrs+Studio;contributing+to+a+Rust+%2B+Bevy+skate+engine;Fabric+mods%2C+hypervisors+%26+demo+analysis;open-source%3A+SpoTUI%2C+opencode-gui%2C+openmouse;let's+all+love+lain" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2800&pause=900&color=C9B8FF&center=true&vCenter=true&width=560&lines=%3E+hi%2C+i'm+Nox;final-year+%40+ETNA;dev+%40+Rivrs+Studio;contributing+to+a+Rust+%2B+Bevy+skate+engine;Fabric+mods+%26+demo+analysis;open-source%3A+SpoTUI%2C+opencode-gui%2C+openmouse;let's+all+love+lain" alt="typing intro" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@ and plenty of dotfiles
 nox@wired:~$ cat now.txt
 - contributing  skate-3-rust-engine (Rust + Bevy), opencode-gui, SpoTUI, openmouse
 - tinkering     Dynamac-Island (Swift), Dot-Files, FihSpot
-- ask me about Rust + Bevy modding, Fabric mods, hypervisors & Windows internals,
+- ask me about Rust + Bevy modding, Fabric mods, Windows internals,
                demo analysis, mouse/HID protocols, Spotify theming, agent UIs
 ```
 
