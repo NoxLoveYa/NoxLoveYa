@@ -63,12 +63,6 @@ $ cat now.txt
 ![Git](https://img.shields.io/badge/Git-8b949e?style=flat-square&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-8b949e?style=flat-square&logo=archlinux&logoColor=white)
 
-```text
-epitech cursus: C (printf, minishell, my_ls, navy, sokoban, push_swap, my_ftp, CSFML games),
-C++ (raytracer, arcade, tekspice, panoramix, bootstrap types), x86-64 asm (minilibc),
-web (epytodo, AREA), security (burp), CI/CD (chocolatine, popeye), neural networks, math/Python
-```
-
 ## find me
 
 [github](https://github.com/NoxLoveYa) · [website](https://example.com) · [email](mailto:you@example.com)
